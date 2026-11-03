@@ -1,0 +1,9 @@
+.git/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+notebooks/
+*.ipynb
+Algerian_forest_fires_dataset_UPDATE.csv
+Algerian_forest_fires_dataset_cleaned_dataset.csv
